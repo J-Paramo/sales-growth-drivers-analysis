@@ -96,7 +96,7 @@ Y responder la siguiente pregunta clave:
 
 ### 5. Dashboard (opcional / recomendado)
 - Dashboard interactivo en Power BI
-- KPIs principales de ventas
+- KPIs principales de ventas, productos, sucursales y agentes
 - Segmentación por producto, región y vendedor
 - Filtros dinámicos para análisis ejecutivo
 
